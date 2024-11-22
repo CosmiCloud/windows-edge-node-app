@@ -1,0 +1,15 @@
+{
+  "log_level": "debug",
+  "app_name": "",
+  "app_service_host": "localhost",
+  "app_service_port": "8032",
+  "dkg_host": "WSL",
+  "dkg_port": "8900",
+  "environment": "development",
+  "useSSL": false,
+  "master_paranet": "",
+  "blockchain": "base:84532",
+  "rpc": "https://sepolia.base.org",
+  "faucet_endpoint": "",
+  "edge_node_publish_mode": "public"
+}

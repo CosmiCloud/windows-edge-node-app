@@ -1,0 +1,7 @@
+/node_modules/
+/dist/
+/logs/
+/wsl/data/.key_pairs
+/wsl/instance/ext4.vhdx
+/service/daemon/
+/config/app_config.json
