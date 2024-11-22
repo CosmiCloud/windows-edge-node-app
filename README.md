@@ -1,6 +1,6 @@
 ### Origintail Windows App Edge Node
 
-An electronjs/React app shell with WSL hosted Origintrail Edge Node.
+An electronjs/React app shell with WSL hosted Origintrail Edge Node services.
 
 ## Dependencies
 
