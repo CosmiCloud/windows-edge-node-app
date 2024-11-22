@@ -1,0 +1,74 @@
+
+22:16:24.110 > WebSocket server is running and listening on port 8032
+22:17:00.871 > Client connected to ParaSync service via WebSocket
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+22:17:06.561 > Received message from client...
+22:17:06.562 > Authenticating...
+22:17:08.600 > Sending response to client: {"error":"Authentication failed"}
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+
+22:17:25.955 > WebSocket server is running and listening on port 8032
+22:17:33.961 > Client connected to ParaSync service via WebSocket
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+22:17:39.562 > Received message from client...
+22:17:39.563 > Authenticating...
+22:17:41.617 > Sending response to client: {"error":"Authentication failed"}
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+Error: Unable to get node info: connect ECONNREFUSED 172.20.140.176:8900
+    at HttpService.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\services\node-api-service\implementations\http-service.js:20:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NodeOperationsManager.info (C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\dkg.js\managers\node-operations-manager.js:23:26)
+    at async Object.info (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\dkg\node.js:36:23)
+    at async checkDKGInfo (C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js:29:29)
+22:18:23.353 > Connected to DKG: 
+          Host: 172.20.140.176
+          DKG Version: "8.1.2+beta.0"
+        
+22:19:02.039 > Received message from client...
+22:19:02.039 > Authenticating...
+22:19:02.130 > Successfully authenticated!
+22:19:02.130 > Sending response to client: {"message":"Login successful","user":{"id":1,"username":"admin","createdAt":"2024-10-27T19:36:45.000Z","updatedAt":"2024-10-27T19:36:45.000Z","config":[{"id":1,"option":"edge_node_publish_mode","value":"curated_paranet","createdAt":"2024-10-27T19:36:45.000Z","updatedAt":"2024-10-27T19:36:45.000Z","user_id":1},{"id":2,"option":"edge_node_backend_endpoint","value":"http://172.20.140.176","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":3,"option":"kmining_endpoint","value":"http://localhost:5005","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":4,"option":"drag_endpoint","value":"http://localhost:5002","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":5,"option":"publish_service_endpoint","value":"internal","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":6,"option":"edit_is_turned_on","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":7,"option":"preview_is_turned_on","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":8,"option":"run_time_node_endpoint","value":"http://localhost","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":9,"option":"run_time_node_port","value":"8900","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":10,"option":"edge_node_environment","value":"testnet","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":11,"option":"kmining_json_pipeline_id","value":"simple_json_to_jsonld","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":12,"option":"kmining_pdf_pipeline_id","value":"pdf_to_jsonld","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":13,"option":"edge_node_domain","value":"http://localhost:5173","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":14,"option":"edge_node_name","value":"ParaSync","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":15,"option":"supported_filetypes","value":"pdf,json","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":16,"option":"share_is_turned_on","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":17,"option":"collect_rewards_is_turned_on","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":18,"option":"contribute_allow_resume","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":19,"option":"contribute_show_transaction_details","value":"true","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":20,"option":"kb_graph_is_turned_on","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":21,"option":"kb_table_is_turned_on","value":"true","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":22,"option":"kb_available_to_mine_is_turned_on","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":23,"option":"edge_node_paranet_ual","value":"did:dkg:base:84532/0xb8b904c73d2fb4d8c173298a51c27fab70222c32/8206023","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":24,"option":"edge_node_ssl_active","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":25,"option":"all_nodes_names","value":"ParaSync","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":26,"option":"milvus_address","value":"https://your_zilliz_url.com","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":27,"option":"milvus_token","value":"db_admin:your_pw","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":28,"option":"vector_collection","value":"ExampleCollection","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":29,"option":"vectorize_pipeline","value":"vectorize_ka","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":30,"option":"blockchain","value":"base:84532","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":31,"option":"embedding_model_api_key","value":"hf_yourkey","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":32,"option":"embedding_model","value":"guidecare/all-mpnet-base-v2-feature-extraction","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":33,"option":"cohere_key","value":"cohere_yourkey","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":34,"option":"vectorization_enabled","value":"false","createdAt":"2024-10-27T15:49:20.000Z","updatedAt":"2024-10-27T15:49:20.000Z","user_id":1},{"id":35,"option":"unstructured_api_url","value":"https://your_unstructured_api_url","createdAt":"2024-11-20T22:27:48.000Z","updatedAt":"2024-11-20T22:27:48.000Z","user_id":1},{"id":36,"option":"unstructured_api_key","value":"your_unstructured_api_key_if_exists","createdAt":"2024-11-20T22:27:53.000Z","updatedAt":"2024-11-20T22:27:53.000Z","user_id":1}]},"cookie":"s%3A3hyfVFLmTiL9OvWY5z5aGgG0F7pa4YM_.gn2asCaNiucAXrjoDwjKPaQtsynBA5yTd%2F64duCQyo4"}

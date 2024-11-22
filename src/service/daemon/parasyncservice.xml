@@ -1,0 +1,31 @@
+<service>
+	<id>parasyncservice.exe</id>
+	<name>ParaSync Service</name>
+	<description>The ParaSync Windows Service.</description>
+	<executable>C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\electron\dist\electron.exe</executable>
+	<argument>--max-old-space-size=4096</argument>
+	<argument>C:\Users\Cosmi\othub\windows-edge-node-app\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\Users\Cosmi\othub\windows-edge-node-app\src\service\index.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>ParaSync Service wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-C1F7A7B</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>C:\Users\Cosmi\othub\windows-edge-node-app</workingdirectory>
+</service>

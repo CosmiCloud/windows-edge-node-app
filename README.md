@@ -14,7 +14,7 @@ This app is required to be installed with the supplied faucet repo to ensure sea
 2. cd windws-edge-node-app
 3. npm install
 4. npm run build
-5. cp -r example_app_config.json app_config.json
+5. Copy the example_app_config.json to app_config.json
 6. Edit app_config.json with desired info
 7. npm install
 
