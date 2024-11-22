@@ -20,4 +20,4 @@ This app is required to be installed with the supplied faucet repo to ensure sea
 
 # !Important!
 
-After install you must change the log in credentials of your app's windows service to use your windwos credentials so it can communicate with the WSL instance. Restart the app afterwards.
+After install you must change the log in credentials of your app's windows service to use your windows credentials so it can communicate with the WSL instance. Restart the app afterwards.
